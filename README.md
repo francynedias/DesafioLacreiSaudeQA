@@ -7,7 +7,7 @@
 </p> 
 
  ## 🩺 Descrição
- 
+
  Repositório destinado a documentação e registro dos casos e execuções de testes realizados para o desafio "Lacrei na QA", focado nos principais fluxos de interação da pessoa usuária no sistema da Lacrei Saúde.
 
 ## 🩺 Objetivos 
@@ -20,17 +20,18 @@
 - Criar cenário de teste de desempenho;
 - Criar cenário de teste de acessibilidade;
 - Criar cenário de teste de responsividade mobile;
+- Executar todos os casos de testes e evidência-los;
 - Documentação e registro de bugs;
 - Identificação e propostas de melhorias;
 - Bônus (Opcional): Testes automatizados com Cypress E2E.
 
 ## 🩺 Metodologia e Execução
 
-### Planejamento
+### 🔎 Planejamento
 
-### Documentação
+### 🔎 Documentação
 
-### Execução dos Testes
+### 🔎 Execução dos Testes
 
 ## 🩺 Como foi a experiência do desafio?
 
