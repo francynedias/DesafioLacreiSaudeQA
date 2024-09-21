@@ -8,7 +8,7 @@
 
  ## 🩺 Descrição
 
- Repositório destinado a documentação e registro dos casos e execuções de testes realizados para o desafio "Lacrei na QA", focado nos principais fluxos de interação da pessoa usuária no sistema da Lacrei Saúde.
+ Repositório destinado a documentação e registro dos casos e execuções de testes realizados para o desafio "Lacrei na QA", focado nos principais fluxos de interação da pessoa usuária no sistema da [Lacrei Saúde](https://paciente-staging.lacreisaude.com.br/)
 
 ## 🩺 Objetivos 
 
@@ -23,15 +23,30 @@
 - Executar todos os casos de testes e evidência-los;
 - Documentação e registro de bugs;
 - Identificação e propostas de melhorias;
-- Bônus (Opcional): Testes automatizados com Cypress E2E.
 
 ## 🩺 Metodologia e Execução
 
 ### 🔎 Planejamento
 
+Foi realizado a análise do fluxo de ações testadas utilizando o [Miro](https://miro.com/app/board/uXjVLdKhiiI=/?share_link_id=104476704996).
+
 ### 🔎 Documentação
+
+Os casos de teste foram todos planejados e documentados no [Notion](https://francyne.notion.site/Desafio-Lacrei-na-QA-104634a6903580378e05def3f148db0c).
 
 ### 🔎 Execução dos Testes
 
-## 🩺 Como foi a experiência do desafio?
+A execução dos testes foi realizada de forma manual, com evidências em GIFSs, tanto de casos com bug quando dos casos com sucesso. Cada execução foi organizada e vinculada a respectiva funcionalidade, documentada no Notion.
+
+### 🔎 Ferramentas
+- Miro
+Utilizado para a Análise do Projeto.
+- Notion
+Utilizado como ferramenta de documentação. 
+- GitHub
+Utilizado como repositório e apresentação do desafio.
+- Lighthouse
+Utilizada para análise de performance e acessibilidade do sistema.
+- AZ Screen Recorder 
+Utilizado para registro de evidências mobile.
 
