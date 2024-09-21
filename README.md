@@ -39,14 +39,14 @@ Os casos de teste foram todos planejados e documentados no [Notion](https://fran
 A execução dos testes foi realizada de forma manual, com evidências em GIFSs, tanto de casos com bug quando dos casos com sucesso. Cada execução foi organizada e vinculada a respectiva funcionalidade, documentada no Notion.
 
 ### 🔎 Ferramentas
-- Miro
+- Miro:
 Utilizado para a Análise do Projeto.
-- Notion
+- Notion:
 Utilizado como ferramenta de documentação. 
-- GitHub
+- GitHub:
 Utilizado como repositório e apresentação do desafio.
-- Lighthouse
+- Lighthouse:
 Utilizada para análise de performance e acessibilidade do sistema.
-- AZ Screen Recorder 
+- AZ Screen Recorder: 
 Utilizado para registro de evidências mobile.
 
